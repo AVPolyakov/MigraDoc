@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PdfSharp.Charting-netstandard", "..\..\PDFsharp\src\PdfSharp.Charting\PdfSharp.Charting-netstandard.csproj", "{A013B402-D27B-49E5-BC64-1EF9EF6282F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigraDoc.DocumentObjectModel-netstandard", "MigraDoc.DocumentObjectModel\MigraDoc.DocumentObjectModel-netstandard.csproj", "{6B9B784A-66F5-49A6-A0C9-D1FACF485CFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MigraDoc.Rendering-netstandard", "MigraDoc.Rendering\MigraDoc.Rendering-netstandard.csproj", "{A353DC5D-F27A-42DB-9FEA-539BFB282CC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A013B402-D27B-49E5-BC64-1EF9EF6282F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A013B402-D27B-49E5-BC64-1EF9EF6282F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A013B402-D27B-49E5-BC64-1EF9EF6282F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A013B402-D27B-49E5-BC64-1EF9EF6282F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9B784A-66F5-49A6-A0C9-D1FACF485CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9B784A-66F5-49A6-A0C9-D1FACF485CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9B784A-66F5-49A6-A0C9-D1FACF485CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9B784A-66F5-49A6-A0C9-D1FACF485CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A353DC5D-F27A-42DB-9FEA-539BFB282CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A353DC5D-F27A-42DB-9FEA-539BFB282CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A353DC5D-F27A-42DB-9FEA-539BFB282CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A353DC5D-F27A-42DB-9FEA-539BFB282CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A57C3441-F03C-41B9-991D-1633899AFE0A}
+	EndGlobalSection
+EndGlobal
